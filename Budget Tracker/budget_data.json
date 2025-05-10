@@ -1,0 +1,17 @@
+{
+    "initial_budget": 50000.0,
+    "expenses": [
+        {
+            "description": "groceries",
+            "amount": 1000.0
+        },
+        {
+            "description": "shopping",
+            "amount": 2500.0
+        },
+        {
+            "description": "tax",
+            "amount": 800.0
+        }
+    ]
+}
